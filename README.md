@@ -35,7 +35,7 @@ A aplicação permite adicionar nomes de participantes e realizar o sorteio de f
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/Deh-prog/amigo-secreto.git
+   git clone https://github.com/Deh-prog/Challenge_Amigo-Secreto.git
 2. Acesse a pasta do projeto: **cd amigo-secreto**
 3. Abra o arquivo **index.html** no navegador.
 
